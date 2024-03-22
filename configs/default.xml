@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature automatic="selected" name="DPL_Antenna"/>
+	<feature automatic="selected" name="Base"/>
+	<feature automatic="selected" name="Shape"/>
+	<feature manual="selected" name="Line"/>
+	<feature name="Rectangle"/>
+	<feature name="Clear"/>
+</configuration>
